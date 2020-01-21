@@ -1,5 +1,7 @@
 # Deliver it well
-![Image of Steroidtocat](https://octodex.github.com/images/steroidtocat/)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 CircleCI workshop project for continuous deployment integrated with Heroku. Allows for live updates to be 
 deployed to linked server without constantly pushing to it.
 
