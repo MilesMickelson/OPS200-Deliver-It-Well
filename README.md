@@ -5,11 +5,6 @@
 CircleCI workshop project for continuous deployment integrated with Heroku. Allows for live updates to be 
 deployed to linked server without constantly pushing to it.
 
-Please feel free to demo the project by taking these steps.. 
-
-1. Clone or fork the repo 
-2. $ npm install 
-3. $ npm start (which will build and run on local server 3000)
-4. Open up your browser to view on localhost 3000
+Please feel free to review the code in this project as there is no front end to visualize in the browser.
 
 Thank you, Miles Mickelson
