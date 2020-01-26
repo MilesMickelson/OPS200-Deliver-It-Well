@@ -2,9 +2,8 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-CircleCI workshop project for continuous deployment integrated with Heroku. Allows for live updates to be 
-deployed to linked server without constantly pushing to it.
+CircleCI workshop project for continuous deployment integrated with Heroku. Allows for live updates/tests to be deployed to linked server without constantly pushing to it.
 
-Please feel free to review the code in this project as there is no front end to visualize in the browser.
+#### Please feel free to review the code in this repository as there is no front end feature to visualize.
 
-Thank you, Miles Mickelson
+* **Thank you**, ***-Miles Mickelson***
